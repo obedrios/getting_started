@@ -1,0 +1,51 @@
+{% extends "base_bootstrap.html" %}
+{#  This is a comment #}
+{% block content %}
+    <h1>Pizza Club: Pizza List</h1>
+    {% include 'home/welcome.html' %}
+    {% if user.is_business %}
+        {% if pizzas %}
+            <ul>
+                {% for pizza in pizzas %}
+                    <li>
+                        {{ pizza.title }} ({{ pizza.description }})
+                        by {{ pizza.creator.name }} <img src="{{ pizza.thumbnail_url }}" width="50px" height="50px"/>
+                        <br/>Likes: ({{ pizza.likes_count }}) - <a href="{% url 'pizza:pizza_like' pizza.id %}">Like this Pizza</a>
+                        {% if pizza.creator.owner_id ==  user.id  %}
+                            <br/>
+                            (<a href="{% url 'pizza:pizza_update' pizza.id %}">Update</a> |
+                            <a href="{% url 'pizza:pizza_delete' pizza.id %}">Delete</a>) <br/>
+                        {% endif %}
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>There are no pizzas in the library.</p>
+        {% endif %}
+        <p>
+            {% if pizzas_count > 0 %}
+                <a href="{% url 'pizza:pizza_create' %}">Add a Pizza</a>
+            {% else %}
+                Please add a Pizzeria before you add a Pizza.
+            {% endif %}
+        </p>
+        <p>
+            <a href="{% url 'pizza:pizzeria_list' %}">View Pizzerias</a> ({{ pizzerias_count }}) |
+            <a href="{% url 'pizza:pizza_create' %}">Add a Pizza</a>
+        </p>
+    {% else %}
+        {% if pizzas %}
+            <ul>
+                {% for pizza in pizzas %}
+                    <li>
+                        {{ pizza.title }} ({{ pizza.description }})<br/>
+                        by {{ pizza.creator.name }} <img src="{{ pizza.thumbnail_url }}" width="50px" height="50px"/>
+                        <br/>Likes: ({{ pizza.likes_count }}) - <a href="{% url 'pizza:pizza_like' pizza.id %}">Like this Pizza</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>There are no pizzas in the library.</p>
+        {% endif %}
+    {% endif %}
+{% endblock %}

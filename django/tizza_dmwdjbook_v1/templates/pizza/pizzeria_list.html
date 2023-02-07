@@ -1,0 +1,29 @@
+{% extends "base_bootstrap.html" %}
+
+{% block content %}
+    {% if user.is_authenticated and user.is_business %}
+    <h1>Pizzerias List</h1>
+    {% if pizzeria_list %}
+        <ul>
+            {% for pizzeria in pizzeria_list %}
+                <li>
+                    {{ pizzeria.name }}, {{ pizzeria.address }}
+                    (<a href="{% url 'pizza:pizzeria_update' pizzeria.id %}">Update</a> |
+                    <a href="{% url 'pizza:pizzeria_delete' pizzeria.id %}">Delete</a>)
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>There are no makes in the library.</p>
+    {% endif %}
+    <p><a href="{% url 'pizza:pizzeria_create' %}">Add a Pizzeria</a></p>
+    <p><a href="{% url 'pizza:pizza_list' %}">Back to Home</a></p>
+    {% else %}
+        Only owners can create add and update pizzerias.<br/>
+        (<a href="{% url 'pizza:pizza_list' %}">Home</a> |
+         <a href="{% url 'logout' %}">Log Out</a> )
+    {% endif %}
+{% endblock %}
+
+
+

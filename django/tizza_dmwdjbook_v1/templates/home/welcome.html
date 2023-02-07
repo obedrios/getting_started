@@ -1,0 +1,15 @@
+{% extends "base_bootstrap.html" %}
+{#  This is a comment #}
+{% block content %}
+    <h2>Welcome {{ user.last_name }}, {{ user.first_name }}</h2>
+    <p>
+        (<a href="{% url 'pizza:pizza_list' %}">Home</a> |
+         <a href="{% url 'user:user_details'%}">User details</a> |
+         <a href="{% url 'logout' %}">Log Out</a>)
+    </p>
+    {% if user.is_customer %}
+        Your current role is: Reviewer
+    {% else %}
+        Your current role is: Owner
+    {% endif %}
+{% endblock %}

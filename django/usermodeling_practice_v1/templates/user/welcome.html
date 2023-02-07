@@ -1,0 +1,33 @@
+{% extends "base_bootstrap.html" %}
+{#  This is a comment #}
+{% block content %}
+<h1>Welcome User</h1>
+
+{% if user.is_authenticated %}
+  Hi {{user.last_name}}, {{ user.first_name }}! Your account details are:
+  <table border="1px">
+    <tr>
+      <th>ID:</th><td>{{user.id}}</td>
+    </tr>
+    <tr>
+      <th>USERNAME:</th><td>{{user.username}}</td>
+    </tr>
+    <tr>
+      <th>EMAIL:</th><td>{{user.email}}</td>
+    </tr>
+  </table>
+  <p>Your current roles are: [
+    {% for role in user_roles %} {{role}}, {% endfor %} 
+    ]
+  </p>
+  <p>
+    (<a href="{% url 'logout' %}">Log Out</a> |
+     <a href="{% url 'user:user_update' user.id %}">Update</a>)
+</p>
+{% else %}
+  <p>You are not logged in</p>
+  (<a href="{% url 'login' %}">Log In</a> |
+   <a href="{% url 'user:user_register' %}">Register</a> )
+{% endif %}
+
+{% endblock %}

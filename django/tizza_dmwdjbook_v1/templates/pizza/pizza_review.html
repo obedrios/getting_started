@@ -1,0 +1,18 @@
+{% extends "base_bootstrap.html" %}
+{#  This is a comment #}
+{% block content %}
+    {%  include 'home/welcome.html' %}
+    <h2>Pizza List</h2>
+    {% if pizzas %}
+        <ul>
+            {% for pizza in pizzas %}
+                <li>
+                    {{ pizza.title }} ({{ pizza.description }})
+                    by {{ pizza.creator.name }} <img src="{{ pizza.thumbnail_url }}" width="50px" height="50px"/>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>There are no pizzas in the library.</p>
+    {% endif %}
+{% endblock %}
