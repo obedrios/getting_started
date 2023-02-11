@@ -47,8 +47,6 @@ Key for connecting and uploading data from a csv file:
        fpath = "autoseller/data/mtcars.csv"
        #    
        yourmodels.objects.all().delete()
-       AutoModel.objects.all().delete()
-       AutoBrand.objects.all().delete()
        ##
        with open(fpath, 'r') as csvfile:
            record_reader = csv.DictReader(csvfile, delimiter=',')
