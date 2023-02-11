@@ -6,9 +6,13 @@ import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
 
-/**
- *
+/** 
  * @author obedrios
+ *
+ * Web Resources:
+ * https://www.springcloud.io/post/2022-07/inaccessibleobjectexception/#gsc.tab=0
+ * https://www.sqlservercentral.com/articles/postgresql-hibernate-integration
+ * https://www.digitalocean.com/community/tutorials/hibernate-tutorial-for-beginners
  */
 public class HibernateUtil {
 
