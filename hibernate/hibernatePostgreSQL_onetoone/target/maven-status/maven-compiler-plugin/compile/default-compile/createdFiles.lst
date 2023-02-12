@@ -1,0 +1,4 @@
+com/orios/hibernate/ddloperations/PerformDDLOperations.class
+com/orios/hibernate/Main.class
+com/orios/hibernate/models/Department.class
+com/orios/hibernate/models/Employee.class
