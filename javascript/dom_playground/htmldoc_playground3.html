@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="end">
+<head>
+    <meta charset="UTF8">
+    <meta name="viewport", content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="sample.css">
+    <title>DOM JavaScript PlayGround 3</title>
+</head>
+<body>
+<h1>DOM JavaScript PlayGround 3: Event Listeners</h1> <hr/>
+<div>
+    <p>Button Event Example</p>
+    <button id="button1"> Press Me!!</button>
+    <p id="buttonHits"></p>
+    <script type="text/javascript">
+        let buttonExample = document.querySelector('#button1');
+        let txtcount = document.querySelector('#buttonHits')
+        let counter = 0
+        //
+        txtcount.innerHTML = counter
+        function onButton1Press(){
+            //console.log("Hello World Button")
+            counter = counter + 1
+            txtcount.innerHTML = counter
+        }
+        //
+        buttonExample.addEventListener('click', onButton1Press)
+    </script>
+</div>
+</body>
+</html>

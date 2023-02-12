@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="end">
+    <head>
+        <meta charset="UTF8">
+        <meta name="viewport", content="width=device-width, initial-scale=1.0">
+          <link type="text/css" rel="stylesheet" href="sample.css">
+        <title>Javascript Sanbox</title>
+    </head>
+    <body>
+        <h1>Getting started with Javascript</h1>
+        Javascript Web Resources:
+        <ul>
+            <li>https://www.internetingishard.com/</li>
+            <li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach</li>
+            <li>https://www.w3schools.com/js/js_loop_for.asp</li>
+            <li>https://www.w3schools.com/html/html_basic.asp</li>
+            <li>https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf</li>
+        </ul>
+        
+        <script type="text/javascript">
+            var hello = "Hello World from Java Script!"
+            console.log(hello)
+            //
+            //var colors = new Array("Red", "Green", "Blue")
+            var colors = ["Red", "Green", "Blue"]
+            colors.sort().forEach(element => {
+                console.log(element)
+            });
+            //
+            // Pattern matching example
+            var selectedColor = "Blue"
+            switch(selectedColor){
+                case "Red": 
+                    console.log("Red Is Selected")
+                    break
+                case "Green":
+                    console.log("Green Is Selected")
+                    break
+                case "Blue":
+                    console.log("Blue is selected")
+                    break
+                default: console.log("Something else")
+            }
+
+            // Loops Overview in Javascript
+            for(var index = 0; index < 10; index++) console.log(index)
+
+            for(var item of colors) console.log("This is the color " + item)
+
+            var count = 5
+            while(count != 0) {
+                console.log("This is the count " + count)
+                count = count - 1
+            }
+        </script>
+    </body>
+</html>

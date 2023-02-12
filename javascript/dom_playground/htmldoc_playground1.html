@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="end">
+    <head>
+        <meta charset="UTF8">
+        <meta name="viewport", content="width=device-width, initial-scale=1.0">
+          <link type="text/css" rel="stylesheet" href="sample.css">
+        <title>Javascript DOM Playground #01</title>
+    </head>
+    <body>
+        <h1>DOM Javascript Playground 1: Simple JavaScript routines</h1> <hr/>     
+        <p style="font-weight:bold">DOM Practice using JavaScript</p>
+        <div>
+            <p>Fill list in HTML using an array:</p>
+            <ul id="simplelist">                
+            </ul>
+            <script>
+                const cars = ["BMW", "Volvo", "Saab", "Ford"];
+                let text = ""
+                cars.forEach(item => text += `<li>${item}</li> `)
+                document.getElementById("simplelist").innerHTML = text//"<li> First Item </l1>"
+            </script>
+        </div>
+
+        
+        <div>
+            <style>
+                table, th, td {
+                    border: 1px solid black;
+                }
+            </style>
+            <p> Generate a table with random numbers:</p>
+            <table id="randomnums" style="background-color: bisque; border: 2px; border-style: solid; border-color: red;">
+            </table>
+            <script type="text/javascript">
+                let getRndInclusiveInteger = (min, max) => 
+                   Math.floor(Math.random() * (max - min + 1) ) + min;
+                
+                let getRndExclusiveInteger = (min, max) => 
+                   Math.floor(Math.random() * (max - min) ) + min;
+        
+                let headers = "<th>Sequence</th> <th>Random Number</th>"
+                let rows = ""
+                for(var i = 0; i <= 10; i++){
+                    rows += `<tr><td>${i}</td><td>${getRndInclusiveInteger(1,100)*1.5}</td></tr>`
+                }
+                document.getElementById("randomnums").innerHTML = headers + rows
+            </script>
+        </div>
+    </body>
+</html>
