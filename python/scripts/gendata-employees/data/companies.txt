@@ -1,0 +1,948 @@
+code	name
+3comcorp	3Com Corp
+3mcompany	3M Company
+agedwards	A.G. Edwards Inc.
+abbottlaboratories	Abbott Laboratories
+abercrombie	Abercrombie & Fitch Co.
+abmindustries	ABM Industries Incorporated
+acehardware	Ace Hardware Corporation
+actmanufacturing	ACT Manufacturing Inc.
+acternacorp	Acterna Corp.
+adamsresources	Adams Resources & Energy, Inc.
+adctelecommunications	ADC Telecommunications, Inc.
+adelphiacommunications	Adelphia Communications Corporation
+administaffinc	Administaff, Inc.
+adobesystems	Adobe Systems Incorporated
+adolphcoors	Adolph Coors Company
+advanceauto	Advance Auto Parts, Inc.
+advancedmicro	Advanced Micro Devices, Inc.
+advancepcsinc	AdvancePCS, Inc.
+advanticarestaurant	Advantica Restaurant Group, Inc.
+theaes	The AES Corporation
+aetnainc	Aetna Inc.
+affiliatedcomputer	Affiliated Computer Services, Inc.
+aflacincorporated	AFLAC Incorporated
+agcocorporation	AGCO Corporation
+agilenttechnologies	Agilent Technologies, Inc.
+agwayinc	Agway Inc.
+apartmentinvestment	Apartment Investment and Management Company
+airproducts	Air Products and Chemicals, Inc.
+airborneinc	Airborne, Inc.
+airgasinc	Airgas, Inc.
+aksteel	AK Steel Holding Corporation
+alaskaair	Alaska Air Group, Inc.
+albertoculvercompany	Alberto-Culver Company
+albertsonsinc	Albertson's, Inc.
+alcoainc	Alcoa Inc.
+alleghanycorporation	Alleghany Corporation
+alleghenyenergy	Allegheny Energy, Inc.
+alleghenytechnologies	Allegheny Technologies Incorporated
+allerganinc	Allergan, Inc.
+alleteinc	ALLETE, Inc.
+alliantenergy	Alliant Energy Corporation
+alliedwaste	Allied Waste Industries, Inc.
+allmericafinancial	Allmerica Financial Corporation
+theallstate	The Allstate Corporation
+alltelcorporation	ALLTEL Corporation
+thealpine	The Alpine Group, Inc.
+amazoncominc	Amazon.com, Inc.
+amcentertainment	AMC Entertainment Inc.
+americanpower	American Power Conversion Corporation
+ameradahess	Amerada Hess Corporation
+amerco	AMERCO
+amerencorporation	Ameren Corporation
+americawest	America West Holdings Corporation
+americanaxle	American Axle & Manufacturing Holdings, Inc.
+americaneagle	American Eagle Outfitters, Inc.
+americanelectric	American Electric Power Company, Inc.
+americanexpress	American Express Company
+americanfinancial	American Financial Group, Inc.
+americangreetings	American Greetings Corporation
+americaninternational	American International Group, Inc.
+americanstandard	American Standard Companies Inc.
+americanwater	American Water Works Company, Inc.
+amerisourcebergencorporation	AmerisourceBergen Corporation
+amesdepartment	Ames Department Stores, Inc.
+amgeninc	Amgen Inc.
+amkortechnology	Amkor Technology, Inc.
+amrcorporation	AMR Corporation
+amsouthbancorp	AmSouth Bancorp.
+amtraninc	Amtran, Inc.
+anadarkopetroleum	Anadarko Petroleum Corporation
+analogdevices	Analog Devices, Inc.
+anheuserbuschcompanies	Anheuser-Busch Companies, Inc.
+anixterinternational	Anixter International Inc.
+anntaylorinc	AnnTaylor Inc.
+antheminc	Anthem, Inc.
+aoltime	AOL Time Warner Inc.
+aoncorporation	Aon Corporation
+apachecorporation	Apache Corporation
+applecomputer	Apple Computer, Inc.
+appleracorporation	Applera Corporation
+appliedindustrial	Applied Industrial Technologies, Inc.
+appliedmaterials	Applied Materials, Inc.
+aquilainc	Aquila, Inc.
+aramarkcorporation	ARAMARK Corporation
+archcoal	Arch Coal, Inc.
+archerdaniels	Archer Daniels Midland Company
+arkansasbest	Arkansas Best Corporation
+armstrongholdings	Armstrong Holdings, Inc.
+arrowelectronics	Arrow Electronics, Inc.
+arvinmeritorinc	ArvinMeritor, Inc.
+ashlandinc	Ashland Inc.
+astoriafinancial	Astoria Financial Corporation
+attcorp	AT&T Corp.
+atmelcorporation	Atmel Corporation
+atmosenergy	Atmos Energy Corporation
+audiovoxcorporation	Audiovox Corporation
+autolivinc	Autoliv, Inc.
+automaticdata	Automatic Data Processing, Inc.
+autonationinc	AutoNation, Inc.
+autozoneinc	AutoZone, Inc.
+avayainc	Avaya Inc.
+averydennison	Avery Dennison Corporation
+avistacorporation	Avista Corporation
+avnetinc	Avnet, Inc.
+avonproducts	Avon Products, Inc.
+bakerhughes	Baker Hughes Incorporated
+ballcorporation	Ball Corporation
+bankof	Bank of America Corporation
+thebank	The Bank of New York Company, Inc.
+bankone	Bank One Corporation
+banknorthgroup	Banknorth Group, Inc.
+bantacorporation	Banta Corporation
+barnes	Barnes & Noble, Inc.
+bausch	Bausch & Lomb Incorporated
+baxterinternational	Baxter International Inc.
+bbtcorporation	BB&T Corporation
+thebear	The Bear Stearns Companies Inc.
+beazerhomes	Beazer Homes USA, Inc.
+beckmancoulter	Beckman Coulter, Inc.
+bectondickinson	Becton, Dickinson and Company
+bedbath	Bed Bath & Beyond Inc.
+belkinc	Belk, Inc.
+bellmicroproducts	Bell Microproducts Inc.
+bellsouthcorporation	BellSouth Corporation
+belocorp	Belo Corp.
+bemiscompany	Bemis Company, Inc.
+benchmarkelectronics	Benchmark Electronics, Inc.
+berkshirehathaway	Berkshire Hathaway Inc.
+bestbuy	Best Buy Co., Inc.
+bethlehemsteel	Bethlehem Steel Corporation
+beverlyenterprises	Beverly Enterprises, Inc.
+biglots	Big Lots, Inc.
+bjservices	BJ Services Company
+bjswholesale	BJ's Wholesale Club, Inc.
+theblack	The Black & Decker Corporation
+blackhills	Black Hills Corporation
+bmcsoftware	BMC Software, Inc.
+theboeing	The Boeing Company
+boisecascade	Boise Cascade Corporation
+bordersgroup	Borders Group, Inc.
+borgwarnerinc	BorgWarner Inc.
+bostonscientific	Boston Scientific Corporation
+bowaterincorporated	Bowater Incorporated
+briggs	Briggs & Stratton Corporation
+brightpointinc	Brightpoint, Inc.
+brinkerinternational	Brinker International, Inc.
+bristolmyerssquibb	Bristol-Myers Squibb Company
+broadwinginc	Broadwing, Inc.
+brownshoe	Brown Shoe Company, Inc.
+brownformancorporation	Brown-Forman Corporation
+brunswickcorporation	Brunswick Corporation
+budgetgroup	Budget Group, Inc.
+burlingtoncoat	Burlington Coat Factory Warehouse Corporation
+burlingtonindustries	Burlington Industries, Inc.
+burlingtonnorthern	Burlington Northern Santa Fe Corporation
+burlingtonresources	Burlington Resources Inc.
+ch	C. H. Robinson Worldwide Inc.
+cablevisionsystems	Cablevision Systems Corp
+cabotcorp	Cabot Corp
+cadencedesign	Cadence Design Systems, Inc.
+calpinecorp	Calpine Corp.
+campbellsoup	Campbell Soup Co.
+capitalone	Capital One Financial Corp.
+cardinalhealth	Cardinal Health Inc.
+caremarkrx	Caremark Rx Inc.
+carlislecos	Carlisle Cos. Inc.
+carpentertechnology	Carpenter Technology Corp.
+caseysgeneral	Casey's General Stores Inc.
+caterpillarinc	Caterpillar Inc.
+cbrlgroup	CBRL Group Inc.
+cdicorp	CDI Corp.
+cdwcomputer	CDW Computer Centers Inc.
+cellstarcorp	CellStar Corp.
+cendantcorp	Cendant Corp
+cenexharvest	Cenex Harvest States Cooperatives
+centexcorp	Centex Corp.
+centurytelinc	CenturyTel Inc.
+ceridiancorp	Ceridian Corp.
+ch2mhill	CH2M Hill Cos. Ltd.
+championenterprises	Champion Enterprises Inc.
+charlesschwab	Charles Schwab Corp.
+charmingshoppes	Charming Shoppes Inc.
+chartercommunications	Charter Communications Inc.
+charterone	Charter One Financial Inc.
+chevrontexacocorp	ChevronTexaco Corp.
+chiquitabrands	Chiquita Brands International Inc.
+chubbcorp	Chubb Corp
+cienacorp	Ciena Corp.
+cignacorp	Cigna Corp
+cincinnatifinancial	Cincinnati Financial Corp.
+cinergycorp	Cinergy Corp.
+cintascorp	Cintas Corp.
+circuitcity	Circuit City Stores Inc.
+ciscosystems	Cisco Systems Inc.
+citigroupinc	Citigroup, Inc
+citizenscommunications	Citizens Communications Co.
+ckerestaurants	CKE Restaurants Inc.
+clearchannel	Clear Channel Communications Inc.
+theclorox	The Clorox Co.
+cmgiinc	CMGI Inc.
+cmsenergy	CMS Energy Corp.
+cnfinc	CNF Inc.
+cocacolaco	Coca-Cola Co.
+cocacolaenterprises	Coca-Cola Enterprises Inc.
+colgatepalmoliveco	Colgate-Palmolive Co.
+collins	Collins & Aikman Corp.
+comcastcorp	Comcast Corp.
+comdiscoinc	Comdisco Inc.
+comericainc	Comerica Inc.
+comfortsystems	Comfort Systems USA Inc.
+commercialmetals	Commercial Metals Co.
+communityhealth	Community Health Systems Inc.
+compassbancshares	Compass Bancshares Inc
+computerassociates	Computer Associates International Inc.
+computersciences	Computer Sciences Corp.
+compuwarecorp	Compuware Corp.
+comversetechnology	Comverse Technology Inc.
+conagrafoods	ConAgra Foods Inc.
+concordefs	Concord EFS Inc.
+conectivinc	Conectiv, Inc
+conocoinc	Conoco Inc
+consecoinc	Conseco Inc.
+consolidatedfreightways	Consolidated Freightways Corp.
+consolidatededison	Consolidated Edison Inc.
+constellationbrands	Constellation Brands Inc.
+constellationemergy	Constellation Emergy Group Inc.
+continentalairlines	Continental Airlines Inc.
+convergyscorp	Convergys Corp.
+coopercameron	Cooper Cameron Corp.
+cooperindustries	Cooper Industries Ltd.
+coopertire	Cooper Tire & Rubber Co.
+cornproducts	Corn Products International Inc.
+corninginc	Corning Inc.
+costcowholesale	Costco Wholesale Corp.
+countrywidecredit	Countrywide Credit Industries Inc.
+coventryhealth	Coventry Health Care Inc.
+coxcommunications	Cox Communications Inc.
+craneco	Crane Co.
+cromptoncorp	Crompton Corp.
+crowncork	Crown Cork & Seal Co. Inc.
+cskauto	CSK Auto Corp.
+csxcorp	CSX Corp.
+cumminsinc	Cummins Inc.
+cvscorp	CVS Corp.
+cytecindustries	Cytec Industries Inc.
+dkhealthcare	D&K Healthcare Resources, Inc.
+drhorton	D.R. Horton Inc.
+danacorporation	Dana Corporation
+danahercorporation	Danaher Corporation
+dardenrestaurants	Darden Restaurants Inc.
+davitainc	DaVita Inc.
+deanfoods	Dean Foods Company
+deere	Deere & Company
+delmonte	Del Monte Foods Co
+dellcomputer	Dell Computer Corporation
+delphicorp	Delphi Corp.
+deltaair	Delta Air Lines Inc.
+deluxecorporation	Deluxe Corporation
+devonenergy	Devon Energy Corporation
+digiorgio	Di Giorgio Corporation
+dialcorporation	Dial Corporation
+dieboldincorporated	Diebold Incorporated
+dillardsinc	Dillard's Inc.
+dimonincorporated	DIMON Incorporated
+dolefood	Dole Food Company, Inc.
+dollargeneral	Dollar General Corporation
+dollartree	Dollar Tree Stores, Inc.
+dominionresources	Dominion Resources, Inc.
+dominospizza	Domino's Pizza LLC
+dovercorporation	Dover Corporation, Inc.
+dowchemical	Dow Chemical Company
+dowjones	Dow Jones & Company, Inc.
+dplinc	DPL Inc.
+dqeinc	DQE Inc.
+dreyersgrand	Dreyer's Grand Ice Cream, Inc.
+dstsystems	DST Systems, Inc.
+dteenergy	DTE Energy Co.
+eidu	E.I. Du Pont de Nemours and Company
+dukeenergy	Duke Energy Corp
+dun	Dun & Bradstreet Inc.
+duraautomotive	DURA Automotive Systems Inc.
+dyncorp	DynCorp
+dynegyinc	Dynegy Inc.
+e*tradegroup	E*Trade Group, Inc.
+ewscripps	E.W. Scripps Company
+earthlinkinc	Earthlink, Inc.
+eastmanchemical	Eastman Chemical Company
+eastmankodak	Eastman Kodak Company
+eatoncorporation	Eaton Corporation
+echostarcommunications	Echostar Communications Corporation
+ecolabinc	Ecolab Inc.
+edisoninternational	Edison International
+eglinc	EGL Inc.
+elpaso	El Paso Corporation
+electronicarts	Electronic Arts Inc.
+electronicdata	Electronic Data Systems Corp.
+elililly	Eli Lilly and Company
+emccorporation	EMC Corporation
+emcorgroup	Emcor Group Inc.
+emersonelectric	Emerson Electric Co.
+encompassservices	Encompass Services Corporation
+energizerholdings	Energizer Holdings Inc.
+energyeast	Energy East Corporation
+engelhardcorporation	Engelhard Corporation
+enroncorp	Enron Corp.
+entergycorporation	Entergy Corporation
+enterpriseproducts	Enterprise Products Partners L.P.
+eogresources	EOG Resources, Inc.
+equifaxinc	Equifax Inc.
+equitableresources	Equitable Resources Inc.
+equityoffice	Equity Office Properties Trust
+equityresidential	Equity Residential Properties Trust
+esteelauder	Estee Lauder Companies Inc.
+exeloncorporation	Exelon Corporation
+exidetechnologies	Exide Technologies
+expeditorsinternational	Expeditors International of Washington Inc.
+expressscripts	Express Scripts Inc.
+exxonmobilcorporation	ExxonMobil Corporation
+fairchildsemiconductor	Fairchild Semiconductor International Inc.
+familydollar	Family Dollar Stores Inc.
+farmlandindustries	Farmland Industries Inc.
+federalmogul	Federal Mogul Corp.
+federateddepartment	Federated Department Stores Inc.
+federalexpress	Federal Express Corp.
+felcorlodging	Felcor Lodging Trust Inc.
+ferrocorp	Ferro Corp.
+fidelitynational	Fidelity National Financial Inc.
+fifththird	Fifth Third Bancorp
+firstamerican	First American Financial Corp.
+firstdata	First Data Corp.
+firstnational	First National of Nebraska Inc.
+firsttennessee	First Tennessee National Corp.
+firstenergycorp	FirstEnergy Corp.
+fiservinc	Fiserv Inc.
+fisherscientific	Fisher Scientific International Inc.
+fleetbostonfinancial	FleetBoston Financial Co.
+fleetwoodenterprises	Fleetwood Enterprises Inc.
+flemingcompanies	Fleming Companies Inc.
+flowersfoods	Flowers Foods Inc.
+flowservcorp	Flowserv Corp
+fluorcorp	Fluor Corp
+fmccorp	FMC Corp
+foamexinternational	Foamex International Inc
+footlocker	Foot Locker Inc
+footstarinc	Footstar Inc.
+fordmotor	Ford Motor Co
+forestlaboratories	Forest Laboratories Inc.
+fortunebrands	Fortune Brands Inc.
+fosterwheeler	Foster Wheeler Ltd.
+fplgroup	FPL Group Inc.
+franklinresources	Franklin Resources Inc.
+freeportmcmoran	Freeport McMoran Copper & Gold Inc.
+frontieroil	Frontier Oil Corp
+furniturebrands	Furniture Brands International Inc.
+gannettco	Gannett Co., Inc.
+gapinc	Gap Inc.
+gatewayinc	Gateway Inc.
+gatxcorporation	GATX Corporation
+gemstartvguide	Gemstar-TV Guide International Inc.
+gencorpinc	GenCorp Inc.
+generalcable	General Cable Corporation
+generaldynamics	General Dynamics Corporation
+generalelectric	General Electric Company
+generalmills	General Mills Inc
+generalmotors	General Motors Corporation
+genesishealth	Genesis Health Ventures Inc.
+gentekinc	Gentek Inc.
+gentivahealth	Gentiva Health Services Inc.
+genuineparts	Genuine Parts Company
+genuityinc	Genuity Inc.
+genzymecorporation	Genzyme Corporation
+georgiagulf	Georgia Gulf Corporation
+georgiapacificcorporation	Georgia-Pacific Corporation
+gillettecompany	Gillette Company
+goldkist	Gold Kist Inc.
+goldenstate	Golden State Bancorp Inc.
+goldenwest	Golden West Financial Corporation
+goldmansachs	Goldman Sachs Group Inc.
+goodrichcorporation	Goodrich Corporation
+thegoodyear	The Goodyear Tire & Rubber Company
+graniteconstruction	Granite Construction Incorporated
+graybarelectric	Graybar Electric Company Inc.
+greatlakes	Great Lakes Chemical Corporation
+greatplains	Great Plains Energy Inc.
+greenpointfinancial	GreenPoint Financial Corp.
+greifbros	Greif Bros. Corporation
+greyglobal	Grey Global Group Inc.
+group1	Group 1 Automotive Inc.
+guidantcorporation	Guidant Corporation
+hrblock	H&R Block Inc.
+hbfuller	H.B. Fuller Company
+hjheinz	H.J. Heinz Company
+halliburtonco	Halliburton Co.
+harleydavidsoninc	Harley-Davidson Inc.
+harmaninternational	Harman International Industries Inc.
+harrahsentertainment	Harrah's Entertainment Inc.
+harriscorp	Harris Corp.
+harscocorp	Harsco Corp.
+hartfordfinancial	Hartford Financial Services Group Inc.
+hasbroinc	Hasbro Inc.
+hawaiianelectric	Hawaiian Electric Industries Inc.
+hcainc	HCA Inc.
+healthmanagement	Health Management Associates Inc.
+healthnet	Health Net Inc.
+healthsouthcorp	Healthsouth Corp
+henryschein	Henry Schein Inc.
+herculesinc	Hercules Inc.
+hermanmiller	Herman Miller Inc.
+hersheyfoods	Hershey Foods Corp.
+hewlettpackardcompany	Hewlett-Packard Company
+hiberniacorp	Hibernia Corp.
+hillenbrandindustries	Hillenbrand Industries Inc.
+hiltonhotels	Hilton Hotels Corp.
+hollywoodentertainment	Hollywood Entertainment Corp.
+homedepot	Home Depot Inc.
+honindustries	Hon Industries Inc.
+honeywellinternational	Honeywell International Inc.
+hormelfoods	Hormel Foods Corp.
+hostmarriott	Host Marriott Corp.
+householdinternational	Household International Corp.
+hovnanianenterprises	Hovnanian Enterprises Inc.
+hubgroup	Hub Group Inc.
+hubbellinc	Hubbell Inc.
+hughessupply	Hughes Supply Inc.
+humanainc	Humana Inc.
+huntingtonbancshares	Huntington Bancshares Inc.
+idacorpinc	Idacorp Inc.
+idtcorporation	IDT Corporation
+ikonoffice	IKON Office Solutions Inc.
+illinoistool	Illinois Tool Works Inc.
+imcglobal	IMC Global Inc.
+imperialsugar	Imperial Sugar Company
+imshealth	IMS Health Inc.
+inglesmarket	Ingles Market Inc
+ingrammicro	Ingram Micro Inc.
+insightenterprises	Insight Enterprises Inc.
+integratedelectrical	Integrated Electrical Services Inc.
+intelcorporation	Intel Corporation
+internationalpaper	International Paper Co.
+interpublicgroup	Interpublic Group of Companies Inc.
+interstatebakeries	Interstate Bakeries Corporation
+internationalbusiness	International Business Machines Corp.
+internationalflavors	International Flavors & Fragrances Inc.
+internationalmultifoods	International Multifoods Corporation
+intuitinc	Intuit Inc.
+itgroup	IT Group Inc.
+ittindustries	ITT Industries Inc.
+ivaxcorp	Ivax Corp.
+jbhunt	J.B. Hunt Transport Services Inc.
+jcpenny	J.C. Penny Co.
+jpmorgan	J.P. Morgan Chase & Co.
+jabilcircuit	Jabil Circuit Inc.
+jackin	Jack In The Box Inc.
+jacobsengineering	Jacobs Engineering Group Inc.
+jdsuniphase	JDS Uniphase Corp.
+jeffersonpilotco	Jefferson-Pilot Co.
+johnhancock	John Hancock Financial Services Inc.
+johnson	Johnson & Johnson
+johnsoncontrols	Johnson Controls Inc.
+jonesapparel	Jones Apparel Group Inc.
+kbhome	KB Home
+kelloggcompany	Kellogg Company
+kellwoodcompany	Kellwood Company
+kellyservices	Kelly Services Inc.
+kemetcorp	Kemet Corp.
+kennametalinc	Kennametal Inc.
+kerrmcgeecorporation	Kerr-McGee Corporation
+keycorp	KeyCorp
+keyspancorp	KeySpan Corp.
+kimballinternational	Kimball International Inc.
+kimberlyclarkcorporation	Kimberly-Clark Corporation
+kindredhealthcare	Kindred Healthcare Inc.
+klatencorcorporation	KLA-Tencor Corporation
+kmartcorp	K-Mart Corp.
+knightridderinc	Knight-Ridder Inc.
+kohlscorp	Kohl's Corp.
+kpmgconsulting	KPMG Consulting Inc.
+krogerco	Kroger Co.
+l3communications	L-3 Communications Holdings Inc.
+laboratorycorporation	Laboratory Corporation of America Holdings
+lamresearch	Lam Research Corporation
+landamericafinancial	LandAmerica Financial Group Inc.
+landsend	Lands' End Inc.
+landstarsystem	Landstar System Inc.
+lazboyinc	La-Z-Boy Inc.
+learcorporation	Lear Corporation
+leggmason	Legg Mason Inc.
+leggett	Leggett & Platt Inc.
+lehmanbrothers	Lehman Brothers Holdings Inc.
+lennarcorporation	Lennar Corporation
+lennoxinternational	Lennox International Inc.
+level3	Level 3 Communications Inc.
+levistrauss	Levi Strauss & Co.
+lexmarkinternational	Lexmark International Inc.
+limitedinc	Limited Inc.
+lincolnnational	Lincoln National Corporation
+linensn	Linens 'n Things Inc.
+lithiamotors	Lithia Motors Inc.
+lizclaiborne	Liz Claiborne Inc.
+lockheedmartin	Lockheed Martin Corporation
+loewscorporation	Loews Corporation
+longsdrug	Longs Drug Stores Corporation
+louisianapacificcorporation	Louisiana-Pacific Corporation
+lowescompanies	Lowe's Companies Inc.
+lsilogic	LSI Logic Corporation
+theltv	The LTV Corporation
+thelubrizol	The Lubrizol Corporation
+lucenttechnologies	Lucent Technologies Inc.
+lyondellchemical	Lyondell Chemical Company
+mtbank	M & T Bank Corporation
+magellanhealth	Magellan Health Services Inc.
+mailwellinc	Mail-Well Inc.
+mandalayresort	Mandalay Resort Group
+manorcare	Manor Care Inc.
+manpowerinc	Manpower Inc.
+marathonoil	Marathon Oil Corporation
+marinerhealth	Mariner Health Care Inc.
+markelcorporation	Markel Corporation
+marriottinternational	Marriott International Inc.
+marsh	Marsh & McLennan Companies Inc.
+marshsupermarkets	Marsh Supermarkets Inc.
+marshall	Marshall & Ilsley Corporation
+martinmarietta	Martin Marietta Materials Inc.
+mascocorporation	Masco Corporation
+masseyenergy	Massey Energy Company
+mastecinc	MasTec Inc.
+mattelinc	Mattel Inc.
+maximintegrated	Maxim Integrated Products Inc.
+maxtorcorporation	Maxtor Corporation
+maxxaminc	Maxxam Inc.
+themay	The May Department Stores Company
+maytagcorporation	Maytag Corporation
+mbnacorporation	MBNA Corporation
+mccormick	McCormick & Company Incorporated
+mcdonaldscorporation	McDonald's Corporation
+themcgrawhill	The McGraw-Hill Companies Inc.
+mckessoncorporation	McKesson Corporation
+mcleodusaincorporated	McLeodUSA Incorporated
+mdcholdings	M.D.C. Holdings Inc.
+mduresources	MDU Resources Group Inc.
+meadwestvacocorporation	MeadWestvaco Corporation
+medtronicinc	Medtronic Inc.
+mellonfinancial	Mellon Financial Corporation
+themens	The Men's Wearhouse Inc.
+merck	Merck & Co., Inc.
+mercurygeneral	Mercury General Corporation
+merrilllynch	Merrill Lynch & Co. Inc.
+metaldynecorporation	Metaldyne Corporation
+metalsusa	Metals USA Inc.
+metlifeinc	MetLife Inc.
+metriscompanies	Metris Companies Inc
+mgicinvestment	MGIC Investment Corporation
+mgmmirage	MGM Mirage
+michaelsstores	Michaels Stores Inc.
+microntechnology	Micron Technology Inc.
+microsoftcorporation	Microsoft Corporation
+milacroninc	Milacron Inc.
+millenniumchemicals	Millennium Chemicals Inc.
+mirantcorporation	Mirant Corporation
+mohawkindustries	Mohawk Industries Inc.
+molexincorporated	Molex Incorporated
+themony	The MONY Group Inc.
+morganstanley	Morgan Stanley Dean Witter & Co.
+motorolainc	Motorola Inc.
+mpsgroup	MPS Group Inc.
+murphyoil	Murphy Oil Corporation
+naborsindustries	Nabors Industries Inc
+naccoindustries	Nacco Industries Inc
+nashfinch	Nash Finch Company
+nationalcity	National City Corp.
+nationalcommerce	National Commerce Financial Corporation
+nationalfuel	National Fuel Gas Company
+nationaloilwell	National Oilwell Inc
+nationalrural	National Rural Utilities Cooperative Finance Corporation
+nationalsemiconductor	National Semiconductor Corporation
+nationalservice	National Service Industries Inc
+navistarinternational	Navistar International Corporation
+ncrcorporation	NCR Corporation
+theneiman	The Neiman Marcus Group Inc.
+newjersey	New Jersey Resources Corporation
+newyork	New York Times Company
+newellrubbermaid	Newell Rubbermaid Inc
+newmontmining	Newmont Mining Corporation
+nextelcommunications	Nextel Communications Inc
+nicorinc	Nicor Inc
+nikeinc	Nike Inc
+nisourceinc	NiSource Inc
+nobleenergy	Noble Energy Inc
+nordstrominc	Nordstrom Inc
+norfolksouthern	Norfolk Southern Corporation
+nortekinc	Nortek Inc
+northfork	North Fork Bancorporation Inc
+northeastutilities	Northeast Utilities System
+northerntrust	Northern Trust Corporation
+northropgrumman	Northrop Grumman Corporation
+northwesterncorporation	NorthWestern Corporation
+novellussystems	Novellus Systems Inc
+nstar	NSTAR
+ntlincorporated	NTL Incorporated
+nucorcorp	Nucor Corp
+nvidiacorp	Nvidia Corp
+nvrinc	NVR Inc
+northwestairlines	Northwest Airlines Corp
+occidentalpetroleum	Occidental Petroleum Corp
+oceanenergy	Ocean Energy Inc
+officedepot	Office Depot Inc.
+officemaxinc	OfficeMax Inc
+ogeenergy	OGE Energy Corp
+oglethorpepower	Oglethorpe Power Corp.
+ohiocasualty	Ohio Casualty Corp.
+oldrepublic	Old Republic International Corp.
+olincorp	Olin Corp.
+omgroup	OM Group Inc
+omnicareinc	Omnicare Inc
+omnicomgroup	Omnicom Group
+onsemiconductor	On Semiconductor Corp
+oneokinc	ONEOK Inc
+oraclecorp	Oracle Corp
+oshkoshtruck	Oshkosh Truck Corp
+outbacksteakhouse	Outback Steakhouse Inc.
+owens	Owens & Minor Inc.
+owenscorning	Owens Corning
+owensillinoisinc	Owens-Illinois Inc
+oxfordhealth	Oxford Health Plans Inc
+paccarinc	Paccar Inc
+pacificarehealth	PacifiCare Health Systems Inc
+packagingcorp	Packaging Corp. of America
+pactivcorp	Pactiv Corp
+pallcorp	Pall Corp
+pantryinc	Pantry Inc
+parkplace	Park Place Entertainment Corp
+parkerhannifin	Parker Hannifin Corp.
+pathmarkstores	Pathmark Stores Inc.
+paychexinc	Paychex Inc
+paylessshoesource	Payless Shoesource Inc
+penntraffic	Penn Traffic Co.
+pennzoilquakerstate	Pennzoil-Quaker State Company
+pentairinc	Pentair Inc
+peoplesenergy	Peoples Energy Corp.
+peoplesoftinc	PeopleSoft Inc
+pepboys	Pep Boys Manny, Moe & Jack
+potomacelectric	Potomac Electric Power Co.
+pepsibottling	Pepsi Bottling Group Inc.
+pepsiamericasinc	PepsiAmericas Inc.
+pepsicoinc	PepsiCo Inc.
+performancefood	Performance Food Group Co.
+perinicorp	Perini Corp
+perkinelmerinc	PerkinElmer Inc
+perotsystems	Perot Systems Corp
+petcoanimal	Petco Animal Supplies Inc.
+peterkiewit	Peter Kiewit Sons', Inc.
+petsmartinc	PETsMART Inc
+pfizerinc	Pfizer Inc
+pacificgas	Pacific Gas & Electric Corp.
+pharmaciacorp	Pharmacia Corp
+pharmor	Phar Mor Inc.
+phelpsdodge	Phelps Dodge Corp.
+philipmorris	Philip Morris Companies Inc.
+phillipspetroleum	Phillips Petroleum Co
+phillipsvan	Phillips Van Heusen Corp.
+phoenixcompanies	Phoenix Companies Inc
+pier1	Pier 1 Imports Inc.
+pilgrimspride	Pilgrim's Pride Corporation
+pinnaclewest	Pinnacle West Capital Corp
+pioneerstandardelectronics	Pioneer-Standard Electronics Inc.
+pitneybowes	Pitney Bowes Inc.
+pittstonbrinks	Pittston Brinks Group
+plainsall	Plains All American Pipeline LP
+pncfinancial	PNC Financial Services Group Inc.
+pnmresources	PNM Resources Inc
+polarisindustries	Polaris Industries Inc.
+poloralph	Polo Ralph Lauren Corp
+polyonecorp	PolyOne Corp
+popularinc	Popular Inc
+potlatchcorp	Potlatch Corp
+ppgindustries	PPG Industries Inc
+pplcorp	PPL Corp
+praxairinc	Praxair Inc
+precisioncastparts	Precision Castparts Corp
+premcorinc	Premcor Inc.
+prideinternational	Pride International Inc
+primediainc	Primedia Inc
+principalfinancial	Principal Financial Group Inc.
+procter	Procter & Gamble Co.
+profaccooperative	Pro-Fac Cooperative Inc.
+progressenergy	Progress Energy Inc
+progressivecorporation	Progressive Corporation
+protectivelife	Protective Life Corp
+providentfinancial	Provident Financial Group
+providianfinancial	Providian Financial Corp.
+prudentialfinancial	Prudential Financial Inc.
+pssworld	PSS World Medical Inc
+publicservice	Public Service Enterprise Group Inc.
+publixsuper	Publix Super Markets Inc.
+pugetenergy	Puget Energy Inc.
+pultehomes	Pulte Homes Inc
+qualcomminc	Qualcomm Inc
+quantaservices	Quanta Services Inc.
+quantumcorp	Quantum Corp
+questdiagnostics	Quest Diagnostics Inc.
+questarcorp	Questar Corp
+quintilestransnational	Quintiles Transnational
+qwestcommunications	Qwest Communications Intl Inc
+rjreynolds	R.J. Reynolds Tobacco Company
+rrdonnelley	R.R. Donnelley & Sons Company
+radioshack	Radio Shack Corporation
+raymondjames	Raymond James Financial Inc.
+raytheoncompany	Raytheon Company
+readersdigest	Reader's Digest Association Inc.
+reebokinternational	Reebok International Ltd.
+regionsfinancial	Regions Financial Corp.
+regiscorporation	Regis Corporation
+reliancesteel	Reliance Steel & Aluminum Co.
+reliantenergy	Reliant Energy Inc.
+renta	Rent A Center Inc
+republicservices	Republic Services Inc
+revloninc	Revlon Inc
+rgsenergy	RGS Energy Group Inc
+riteaid	Rite Aid Corp
+riverwoodholding	Riverwood Holding Inc.
+roadwaycorp	RoadwayCorp
+roberthalf	Robert Half International Inc.
+rocktennco	Rock-Tenn Co
+rockwellautomation	Rockwell Automation Inc
+rockwellcollins	Rockwell Collins Inc
+rohm	Rohm & Haas Co.
+rossstores	Ross Stores Inc
+rpminc	RPM Inc.
+ruddickcorp	Ruddick Corp
+rydersystem	Ryder System Inc
+ryersontull	Ryerson Tull Inc
+rylandgroup	Ryland Group Inc.
+sabreholdings	Sabre Holdings Corp
+safecocorp	Safeco Corp
+safeguardscientifics	Safeguard Scientifics Inc.
+safewayinc	Safeway Inc
+saksinc	Saks Inc
+sanminasciinc	Sanmina-SCI Inc
+saralee	Sara Lee Corp
+sbccommunications	SBC Communications Inc
+scanacorp	Scana Corp.
+scheringploughcorp	Schering-Plough Corp
+scholasticcorp	Scholastic Corp
+scisystems	SCI Systems Onc.
+scienceapplications	Science Applications Intl. Inc.
+scientificatlantainc	Scientific-Atlanta Inc
+scottscompany	Scotts Company
+seaboardcorp	Seaboard Corp
+sealedair	Sealed Air Corp
+searsroebuck	Sears Roebuck & Co
+sempraenergy	Sempra Energy
+sequacorp	Sequa Corp
+servicecorp	Service Corp. International
+servicemasterco	ServiceMaster Co
+shawgroup	Shaw Group Inc
+sherwinwilliamscompany	Sherwin-Williams Company
+shopkostores	Shopko Stores Inc
+siebelsystems	Siebel Systems Inc
+sierrahealth	Sierra Health Services Inc
+sierrapacific	Sierra Pacific Resources
+silganholdings	Silgan Holdings Inc.
+silicongraphics	Silicon Graphics Inc
+simonproperty	Simon Property Group Inc
+slmcorporation	SLM Corporation
+smithinternational	Smith International Inc
+smithfieldfoods	Smithfield Foods Inc
+smurfitstonecontainer	Smurfit-Stone Container Corp
+snaponinc	Snap-On Inc
+solectroncorp	Solectron Corp
+solutiainc	Solutia Inc
+sonicautomotive	Sonic Automotive Inc.
+sonocoproducts	Sonoco Products Co.
+southerncompany	Southern Company
+southernunion	Southern Union Company
+southtrustcorp	SouthTrust Corp.
+southwestairlines	Southwest Airlines Co
+southwestgas	Southwest Gas Corp
+sovereignbancorp	Sovereign Bancorp Inc.
+spartanstores	Spartan Stores Inc
+spherioncorp	Spherion Corp
+sportsauthority	Sports Authority Inc
+sprintcorp	Sprint Corp.
+spxcorp	SPX Corp
+stjude	St. Jude Medical Inc
+stpaul	St. Paul Cos.
+staffleasing	Staff Leasing Inc.
+stancorpfinancial	StanCorp Financial Group Inc
+standardpacific	Standard Pacific Corp.
+stanleyworks	Stanley Works
+staplesinc	Staples Inc
+starbuckscorp	Starbucks Corp
+starwoodhotels	Starwood Hotels & Resorts Worldwide Inc
+statestreet	State Street Corp.
+staterbros	Stater Bros. Holdings Inc.
+steelcaseinc	Steelcase Inc
+steinmart	Stein Mart Inc
+stewart	Stewart & Stevenson Services Inc
+stewartinformation	Stewart Information Services Corp
+stilwellfinancial	Stilwell Financial Inc
+storagetechnology	Storage Technology Corporation
+strykercorp	Stryker Corp
+sunhealthcare	Sun Healthcare Group Inc.
+sunmicrosystems	Sun Microsystems Inc.
+sungarddata	SunGard Data Systems Inc.
+sunocoinc	Sunoco Inc.
+suntrustbanks	SunTrust Banks Inc
+supervaluinc	Supervalu Inc
+swifttransportation	Swift Transportation, Co., Inc
+symboltechnologies	Symbol Technologies Inc
+synovusfinancial	Synovus Financial Corp.
+syscocorp	Sysco Corp
+systemaxinc	Systemax Inc.
+targetcorp	Target Corp.
+techdata	Tech Data Corporation
+tecoenergy	TECO Energy Inc
+tecumsehproducts	Tecumseh Products Company
+tektronixinc	Tektronix Inc
+teleflexincorporated	Teleflex Incorporated
+telephone	Telephone & Data Systems Inc
+tellabsinc	Tellabs Inc.
+templeinlandinc	Temple-Inland Inc
+tenethealthcare	Tenet Healthcare Corporation
+tennecoautomotive	Tenneco Automotive Inc.
+teradyneinc	Teradyne Inc
+terexcorp	Terex Corp
+tesoropetroleum	Tesoro Petroleum Corp.
+texasindustries	Texas Industries Inc.
+texasinstruments	Texas Instruments Incorporated
+textroninc	Textron Inc
+thermoelectron	Thermo Electron Corporation
+thomas	Thomas & Betts Corporation
+tiffany	Tiffany & Co
+timkencompany	Timken Company
+tjxcompanies	TJX Companies Inc
+tmpworldwide	TMP Worldwide Inc
+tollbrothers	Toll Brothers Inc
+torchmarkcorporation	Torchmark Corporation
+torocompany	Toro Company
+towerautomotive	Tower Automotive Inc.
+toysr	Toys 'R' Us Inc
+transworld	Trans World Entertainment Corp.
+transmontaigneinc	TransMontaigne Inc
+transoceaninc	Transocean Inc
+travelcentersof	TravelCenters of America Inc.
+triadhospitals	Triad Hospitals Inc
+tribunecompany	Tribune Company
+trigonhealthcare	Trigon Healthcare Inc.
+trinityindustries	Trinity Industries Inc
+trumphotels	Trump Hotels & Casino Resorts Inc.
+truservcorporation	TruServ Corporation
+trwinc	TRW Inc
+txucorp	TXU Corp
+tysonfoods	Tyson Foods Inc
+usbancorp	U.S. Bancorp
+usindustries	U.S. Industries Inc.
+ualcorporation	UAL Corporation
+ugicorporation	UGI Corporation
+unifiedwestern	Unified Western Grocers Inc
+unionpacific	Union Pacific Corporation
+unionplanters	Union Planters Corp
+unisourceenergy	Unisource Energy Corp
+unisyscorporation	Unisys Corporation
+unitedauto	United Auto Group Inc
+uniteddefense	United Defense Industries Inc.
+unitedparcel	United Parcel Service Inc
+unitedrentals	United Rentals Inc
+unitedstationers	United Stationers Inc
+unitedtechnologies	United Technologies Corporation
+unitedhealthgroup	UnitedHealth Group Incorporated
+unitrininc	Unitrin Inc
+universalcorporation	Universal Corporation
+universalforest	Universal Forest Products Inc
+universalhealth	Universal Health Services Inc
+unocalcorporation	Unocal Corporation
+unovainc	Unova Inc
+unumprovidentcorporation	UnumProvident Corporation
+urscorporation	URS Corporation
+usairways	US Airways Group Inc
+usoncology	US Oncology Inc
+usainteractive	USA Interactive
+usfreighwayscorporation	USFreighways Corporation
+usgcorporation	USG Corporation
+ustinc	UST Inc
+valeroenergy	Valero Energy Corporation
+valsparcorporation	Valspar Corporation
+valuecity	Value City Department Stores Inc
+varcointernational	Varco International Inc
+vectrencorporation	Vectren Corporation
+veritassoftware	Veritas Software Corporation
+verizoncommunications	Verizon Communications Inc
+vfcorporation	VF Corporation
+viacominc	Viacom Inc
+viadcorp	Viad Corp
+viasystemsgroup	Viasystems Group Inc
+vishayintertechnology	Vishay Intertechnology Inc
+visteoncorporation	Visteon Corporation
+voltinformation	Volt Information Sciences Inc
+vulcanmaterials	Vulcan Materials Company
+wrberkley	W.R. Berkley Corporation
+wrgrace	W.R. Grace & Co
+wwgrainger	W.W. Grainger Inc
+wachoviacorporation	Wachovia Corporation
+wakenhutcorporation	Wakenhut Corporation
+walgreenco	Walgreen Co
+wallacecomputer	Wallace Computer Services Inc
+walmartstores	Wal-Mart Stores Inc
+waltdisney	Walt Disney Co
+walterindustries	Walter Industries Inc
+washingtonmutual	Washington Mutual Inc
+washingtonpost	Washington Post Co.
+wastemanagement	Waste Management Inc
+watscoinc	Watsco Inc
+weatherfordinternational	Weatherford International Inc
+weismarkets	Weis Markets Inc.
+wellpointhealth	Wellpoint Health Networks Inc
+wellsfargo	Wells Fargo & Company
+wendysinternational	Wendy's International Inc
+wernerenterprises	Werner Enterprises Inc
+wescointernational	WESCO International Inc
+westerndigital	Western Digital Inc
+westerngas	Western Gas Resources Inc
+westpointstevens	WestPoint Stevens Inc
+weyerhausercompany	Weyerhauser Company
+wglholdings	WGL Holdings Inc
+whirlpoolcorporation	Whirlpool Corporation
+wholefoods	Whole Foods Market Inc
+willametteindustries	Willamette Industries Inc.
+williamscompanies	Williams Companies Inc
+williamssonoma	Williams Sonoma Inc
+winndixie	Winn Dixie Stores Inc
+wisconsinenergy	Wisconsin Energy Corporation
+wmwrigley	Wm Wrigley Jr Company
+worldfuel	World Fuel Services Corporation
+worldcominc	WorldCom Inc
+worthingtonindustries	Worthington Industries Inc
+wpsresources	WPS Resources Corporation
+wyeth	Wyeth
+wyndhaminternational	Wyndham International Inc
+xcelenergy	Xcel Energy Inc
+xeroxcorp	Xerox Corp
+xilinxinc	Xilinx Inc
+xocommunications	XO Communications Inc
+yellowcorporation	Yellow Corporation
+yorkinternational	York International Corp
+yumbrands	Yum Brands Inc.
+zalecorporation	Zale Corporation
+zionsbancorporation	Zions Bancorporation
