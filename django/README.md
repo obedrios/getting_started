@@ -25,6 +25,16 @@ export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
 source /usr/local/bin/virtualenvwrapper.sh
 ````
 
+​		If you are using MacOS you should modify your user `.zshrc` file, for example if you are using Python 3.9  append the following lines:
+
+````bash
+export WORKON_HOME=$HOME/.virtualenvs
+export VIRTUALENVWRAPPER_PYTHON="/Library/Frameworks/Python.framework/Versions/3.9/bin/python3"
+source /Library/Frameworks/Python.framework/Versions/3.9/bin/virtualenvwrapper.sh
+````
+
+in general, you should adapt the shown example to your current python version and installation.
+
 3. The following commands are used to create, query, enter and exit from a python virtual environment
 
    ````bash
