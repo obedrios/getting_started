@@ -1,0 +1,1 @@
+[[{"${BASE}/src/main/resources/mtcars.csv":["${BASE}/target/scala-2.13/classes/mtcars.csv"]},{"${BASE}/target/scala-2.13/classes/mtcars.csv":["${BASE}/src/main/resources/mtcars.csv"]}],{"${BASE}/src/main/resources/mtcars.csv":{"file":"file:///C:/Users/isai7/Projects/IdeaProjects/scala2_gettingstarted/src/main/resources/mtcars.csv","lastModified":1662000052000}}]

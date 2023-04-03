@@ -1,0 +1,15 @@
+[debug] > Exec(console, None, None)
+[debug] Evaluating tasks: Compile / console
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 4 Scala sources to C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\target\scala-2.13\classes ...
+[warn] 1 deprecation
+[warn] 1 deprecation (since 2.13.3)
+[warn] 2 deprecations in total; re-run with -deprecation for details
+[warn] three warnings found
+[info] done compiling
+[info] Starting scala interpreter...
+[warn] Canceling execution...
+[error] Cancelled: console
+[error] Cancelled: console
+[error] Use 'last' for the full log.
+[debug] > Exec(idea-shell, None, None)

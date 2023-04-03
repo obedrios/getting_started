@@ -1,0 +1,11 @@
+[debug] Packaging C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\target\scala-2.13\scala2_gettingstarted_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	GettingStarted.class
+[debug] 	  C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\target\scala-2.13\classes\GettingStarted.class
+[debug] 	HelloWorld.class
+[debug] 	  C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\target\scala-2.13\classes\HelloWorld.class
+[debug] 	Main$.class
+[debug] 	  C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\target\scala-2.13\classes\Main$.class
+[debug] 	Main.class
+[debug] 	  C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\target\scala-2.13\classes\Main.class
+[debug] Done packaging.

@@ -1,0 +1,20 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 0 products, 0 sources, 0 libraries
+[debug] current source = Set(${BASE}/src/test/scala/HelloWorldTest.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(${BASE}/src/test/scala/HelloWorldTest.scala), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] Full compilation, no sources in previous analysis.
+[debug] all 1 sources are invalidated
+[debug] Initial set of included nodes: 
+[debug] Recompiling all sources: number of invalidated sources > 50.0 percent of all sources
+[debug] compilation cycle 1
+[info] compiling 1 Scala source to C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\target\scala-2.13\test-classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.8.0:compile for Scala 2.13.10
+[debug] [zinc] Running cached compiler 71cf56b6 for Scala compiler version 2.13.10
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	C:\Users\isai7\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.10\scala-library-2.13.10.jar
+[debug] 	-classpath
+[debug] 	C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\target\scala-2.13\test-classes;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\target\scala-2.13\classes;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\apiguardian-api-1.1.2-javadoc.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\apiguardian-api-1.1.2-sources.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\apiguardian-api-1.1.2.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-jupiter-5.8.1-javadoc.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-jupiter-5.8.1-sources.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-jupiter-5.8.1.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-jupiter-api-5.8.1-javadoc.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-jupiter-api-5.8.1-sources.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-jupiter-api-5.8.1.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-jupiter-engine-5.8.1-javadoc.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-jupiter-engine-5.8.1-sources.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-jupiter-engine-5.8.1.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-jupiter-params-5.8.1-javadoc.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-jupiter-params-5.8.1-sources.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-jupiter-params-5.8.1.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-platform-commons-1.8.1-javadoc.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-platform-commons-1.8.1-sources.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-platform-commons-1.8.1.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-platform-engine-1.8.1-javadoc.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-platform-engine-1.8.1-sources.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\junit-platform-engine-1.8.1.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\opentest4j-1.2.0-javadoc.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\opentest4j-1.2.0-sources.jar;C:\Users\isai7\Projects\IdeaProjects\scala2_gettingstarted\lib\opentest4j-1.2.0.jar
+[debug] Scala compilation took 0.4955804 s
+[info] done compiling
